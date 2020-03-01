@@ -8,4 +8,4 @@
 5) "Hello, World!")))
 6) just look at point №5
 7) they are all in process: javarush, stepik, startandroid
-8) English courses in my company twice a week
+8) English courses in my company twice a week and selfeducation
